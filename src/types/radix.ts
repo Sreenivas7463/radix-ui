@@ -1,0 +1,1 @@
+export type RadixAccentColor = 'tomato' | 'cyan' | 'mint' | 'indigo' | 'orange' | 'grass' | 'sky';
